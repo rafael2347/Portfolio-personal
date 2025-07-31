@@ -49,8 +49,8 @@ Puedes ver mi portfolio online en: [https://rfgm2023.sitew.es](https://rfgm2023.
 
 ## 📫 Contacto
 
-- 📧 Email: *(tu correo aquí)*
-- 🌐 Web: [https://rfgm2023.sitew.es](https://rfgm2023.sitew.es)
+- 📧 Email: *gonzalezmartinrafael21@gmail.com*
+- 🌐 Web: [https://rfgm2023.sitew.es](https://rfgm2023.sitew.es) [https://rafael2347.me/](https://rafael2347.me/)
 - 📍 Ubicación: Granada, España
 - 🚗 Vehículo propio
 
