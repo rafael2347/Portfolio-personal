@@ -137,8 +137,11 @@ input[type="number"] {
     font-size: 11px;
     min-width: 80px;
     text-align: center;
+    cursor: url('./win-95-98/Cursor_15.cur'), auto;
 }
-
+.cambioCursor{
+    cursor: url('./win-95-98/Cursor_15.cur'), auto;
+}
 .button a {
   text-decoration: none;
   color: white;
