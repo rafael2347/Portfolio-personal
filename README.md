@@ -38,7 +38,7 @@ Puedes ver mi portfolio online en: [https://rfgm2023.sitew.es](https://rfgm2023.
 ## 🔧 Tecnologías y Habilidades
 
 - HTML, CSS, JavaScript
-- React, Angular (nivel intermedio)
+- React
 - Node.js, PHP
 - MySQL, Firebase
 - Git & GitHub
