@@ -50,6 +50,7 @@ body {
     justify-content: center;
     align-items: center;
     font-size: 9px;
+    cursor: url('./win-95-98/Cursor_15.cur'), auto;
 }
 
 .window {
