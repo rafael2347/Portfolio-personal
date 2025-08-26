@@ -8,7 +8,7 @@ Soy Rafael González Martín, tengo 23 años y soy desarrollador web y de aplica
 
 ### 🌐 Web Personal
 
-Puedes ver mi portfolio online en: [https://rfgm2023.sitew.es](https://rfgm2023.sitew.es) [https://rafael2347.me/](https://rafael2347.me/)
+Puedes ver mi portfolio online en: [https://rfgm2023.sitew.es](https://rfgm2023.sitew.es) [https://rafael2347.me/portfolio](https://rafael2347.me/portfolio)
 
 ---
 
